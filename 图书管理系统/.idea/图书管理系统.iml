@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="潮汐预报图像识别" />
+    <orderEntry type="module" module-name="Python入门练兵场" />
+    <orderEntry type="module" module-name="潮汐预报图像识别" />
   </component>
 </module>

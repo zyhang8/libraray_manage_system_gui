@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Python/Python入门练兵场/.idea/Python入门练兵场.iml" filepath="$USER_HOME$/Desktop/Python/Python入门练兵场/.idea/Python入门练兵场.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/图书管理系统.iml" filepath="$PROJECT_DIR$/.idea/图书管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Web-Crawler-Development/潮汐预报图像识别/.idea/潮汐预报图像识别.iml" filepath="$PROJECT_DIR$/../../Web-Crawler-Development/潮汐预报图像识别/.idea/潮汐预报图像识别.iml" />
     </modules>
   </component>
 </project>
